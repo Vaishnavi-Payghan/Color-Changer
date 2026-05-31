@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    transition: background-color 0.5s;
+}
+
+button{
+    background-color: aliceblue;
+    color: green;
+    font-size: 1.2rem;
+    padding: 10px 30px;
+    border: none;
+    margin-top: 200px;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+button:active{
+    background-color: rgb(237, 241, 245);
+    box-shadow: 2px 2px 5px gray;
+    font-size: 20px;
+}
