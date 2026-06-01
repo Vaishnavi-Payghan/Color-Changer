@@ -10,7 +10,7 @@ A simple website that changes the background color with a button click.
 
 ## Live Demo
 
-https://vaishnavi-payghan.github.io/Color-Changer/
+[Click Here to View Live Demo](https://vaishnavi-payghan.github.io/Color-Changer/)
 
 ## Author
 
